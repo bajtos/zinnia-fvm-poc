@@ -1,0 +1,9 @@
+printWidth: 80
+tabWidth: 4
+useTabs: false
+singleQuote: false
+bracketSpacing: false
+proseWrap: always
+trailingComma: all
+plugins:
+  - prettier-plugin-solidity
